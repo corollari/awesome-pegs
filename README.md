@@ -5,8 +5,10 @@
 - zbtc
 - tbtc
 - wbtc
-- safudex
-- makerdao / dai
+- smartbnb
+- DAI (MakerDAO)
+- [pBTC](https://medium.com/provable/introducing-ptokens-provable-portable-pegged-70911e200933): Uses TEEs to hold the Bitcoins
+- sBTC
 
 
 ## SPV
